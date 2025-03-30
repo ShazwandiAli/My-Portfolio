@@ -2,7 +2,7 @@ const projects = [
     {
       title: "This Portfolio Website",
       description: "Built with Next.js, Tailwind CSS, and deployed on Vercel. Serves as both my portfolio and a personal discipline tool.",
-      link: "https://your-vercel-deployment.vercel.app", // replace this later
+      link: "my-portfolio-cfkrncko9-shazwandi-alis-projects.vercel.app", // replace this later
     },
     // Add more projects here in the future
   ];
